@@ -1,6 +1,6 @@
 
+[![DongmuWeng](https://img.shields.io/badge/DongmuWeng-github-blue?logo=github)](https://github.com/DongmuWeng)
 
-[![DongmuWeng](https://github.com/DongmuWeng/DongMuWeng.github.io)](https://dongmuweng.github.io/)
 
 He is currently pursuing a Bachelor's Degree in Software Engineering at the School of Computer and Information Engineering, Hubei University, China.
 
