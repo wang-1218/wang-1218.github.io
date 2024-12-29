@@ -1,13 +1,4 @@
-- National Scholarship of Graduate Student, 2024.
+- 第十五届蓝桥杯全国软件和信息技术专业人才大赛湖北赛区C/C++程序设计大学B组三等奖
 
-- First-prize Scholarship of CUMT, 2024.
+- 2024年全国大学生数学建模竞赛湖北赛区三等奖
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
