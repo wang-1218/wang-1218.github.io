@@ -1,4 +1,7 @@
-- 第十五届蓝桥杯全国软件和信息技术专业人才大赛湖北赛区C/C++程序设计大学B组三等奖
 
-- 2024年全国大学生数学建模竞赛湖北赛区三等奖
+- The 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition Hubei Division C/C++ Program Design University Group B Third Prize.
+  
+- 2024 National College Mathematical Modeling Competition Hubei Division Third Prize.
+
+
 
